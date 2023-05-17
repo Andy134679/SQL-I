@@ -15,7 +15,11 @@ The project includes the solution for SQL I from leetcode study plan.
 - 1667
 - 1484
 - 1527
-
+### Day4
+- 1965
+- 1795
+- 608
+- 176
 
 # Reference
 https://leetcode.com/study-plan/sql/
