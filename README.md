@@ -20,6 +20,10 @@ The project includes the solution for SQL I from leetcode study plan.
 - 1795
 - 608
 - 176
+### Day5
+- 175
+- 1581
+- 1148
 
 # Reference
 https://leetcode.com/study-plan/sql/
