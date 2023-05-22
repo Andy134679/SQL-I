@@ -36,6 +36,10 @@ The project includes the solution for SQL I from leetcode study plan.
 - 511
 - 1890
 - 1741
+### Day9
+- 1393
+- 1407
+- 1158
 
 # Reference
 https://leetcode.com/study-plan/sql/
